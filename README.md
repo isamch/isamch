@@ -9,7 +9,7 @@
 - 🚀 Frameworks: **Tailwind CSS**  
 - 🛠️ Tools: **Git, GitHub, Appium**  
 - 💬 Ask me about **Front-End Development & Automation Testing**  
-- 📫 **How to reach me:** [your-email@example.com]  
+- 📫 **How to reach me:** [isamchajia@gmail.com]  
 - ⚡ **Fun fact:** I love solving coding puzzles and automating tasks 🧩  
 
 ---
