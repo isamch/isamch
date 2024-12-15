@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile" alt="Banner Image">
+  <img src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg" alt="Banner Image">
 </p>
 
 <!-- Centered Introduction -->
