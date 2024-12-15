@@ -1,5 +1,13 @@
-### Hi 👋, I'm Isam Chajia  
-**🌟 Passionate Web Developer | Problem Solver**  
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile" alt="Banner Image">
+</p>
+
+<!-- Centered Introduction -->
+<h1 align="center">Hi 👋, I'm Isam Chajia</h1>
+<p align="center">
+  🌟 Passionate Web Developer | Problem Solver  
+</p>
 
 ---
 
@@ -9,7 +17,7 @@
 - 🚀 Frameworks: **Tailwind CSS**  
 - 🛠️ Tools: **Git, GitHub, Appium**  
 - 💬 Ask me about **Front-End Development & Automation Testing**  
-- 📫 **How to reach me:** [isamchajia@gmail.com]  
+- 📫 **How to reach me:** [isamchajia@gmail.com](mailto:isamchajia@gmail.com)  
 - ⚡ **Fun fact:** I love solving coding puzzles and automating tasks 🧩  
 
 ---
@@ -34,7 +42,11 @@
 ---
 
 ### 🌐 Connect with Me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isamchajia/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/isamchajia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
 
 ---
 
