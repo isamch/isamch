@@ -95,21 +95,43 @@
 ---
 
 ## 🌐 Connect With Me
-<div align="center" >
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/isamchajia/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/isamchajia/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none;">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+      height="40"
+      style="transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"
+    />
   </a>
-  
-  <a href="mailto:isamchajia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <a href="mailto:isamchajia@gmail.com" style="margin: 0 10px; text-decoration: none;">
+    <img 
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email" 
+      height="40"
+      style="transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"
+    />
   </a>
-  
-  <a href="https://github.com/isamchajia" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <a href="https://github.com/isamchajia" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none;">
+    <img 
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub" 
+      height="40"
+      style="transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.1)';"
+      onmouseout="this.style.transform='scale(1)';"
+    />
   </a>
 
 </div>
+
 
 
 ---
