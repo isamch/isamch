@@ -145,7 +145,12 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/isamchajia/isamchajia/output/snake.svg" alt="Snake animation" />
+  <img 
+    src="https://raw.githubusercontent.com/isamchajia/isamchajia/output/snake.svg" 
+    alt="Snake animation" 
+    width="400" 
+    style="max-width: 90%; height: auto;"
+  />
 </div>
 
 ---
