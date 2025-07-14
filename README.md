@@ -1,135 +1,168 @@
----
-name: 🎮 Rock Paper Scissors
-about: Play Rock Paper Scissors with Isam!
-title: '🎮 Rock Paper Scissors Game'
-labels: game, fun
-assignees: isamchajia
----
+<div align="center">
+  
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Isam%20Chajia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-## 🎮 Let's Play Rock Paper Scissors!
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Isam+Chajia;Passionate+Web+Developer;Problem+Solver+%26+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-Choose your move by commenting below:
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isamchajia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🗿 **Rock**
-- 📄 **Paper** 
-- ✂️ **Scissors**
+</div>
 
-I'll respond with my move and let you know who wins! 🏆
-
-### Current Score:
-- You: 0
-- Isam: 0
-
-*Good luck! 🍀*
-\`\`\`
-
-**b. `tic-tac-toe.md`**
-```yaml project="GitHub Profile Games" file=".github/ISSUE_TEMPLATE/tic-tac-toe.md" type="code"
----
-name: ⭕ Tic Tac Toe
-about: Play Tic Tac Toe with Isam!
-title: '⭕ Tic Tac Toe Game'
-labels: game, fun
-assignees: isamchajia
 ---
 
-## ⭕ Let's Play Tic Tac Toe!
+## 🚀 About Me
 
-\`\`\`
- 1 | 2 | 3 
------------
- 4 | 5 | 6 
------------
- 7 | 8 | 9 
-\`\`\`
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-You are **X**, I am **O**. 
+- 🔭 Currently working on **innovative web development projects**
+- 🌱 Learning **Python** and exploring **automation with Appium**
+- 💻 Passionate about **Front-End Development & UI/UX**
+- 🛠️ Love building **responsive and interactive web applications**
+- 🧩 Enjoy **solving coding puzzles** and **automating tasks**
+- 📫 Reach me at: **isamchajia@gmail.com**
+- ⚡ Fun fact: **I debug with coffee and solve problems with creativity!** ☕
 
-Comment with the number (1-9) where you want to place your X!
-
-*Let the games begin! 🎮*
-\`\`\`
-
-**c. `daily-coding-riddle.md`**
-```yaml project="GitHub Profile Games" file=".github/ISSUE_TEMPLATE/daily-coding-riddle.md" type="code"
----
-name: 🧩 Daily Coding Riddle
-about: Challenge your brain with a coding riddle!
-title: '🧩 Daily Coding Riddle'
-labels: riddle, fun
-assignees: isamchajia
 ---
 
-## 🧩 Daily Coding Riddle Challenge!
+## 🛠️ Tech Stack & Tools
 
-Here's today's riddle:
+<div align="center">
 
-**What has keys but no locks, space but no room, and you can enter but can't go inside?**
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
+</p>
 
-Comment your answer below! I'll reveal the solution in a few days.
+### 🎨 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+</p>
 
-*Hint: Think about everyday objects!*
-\`\`\`
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-**d. `random-tech-tip.md`**
-```yaml project="GitHub Profile Games" file=".github/ISSUE_TEMPLATE/random-tech-tip.md" type="code"
----
-name: 🎲 Random Tech Tip
-about: Get a random tech tip from Isam!
-title: '🎲 Random Tech Tip'
-labels: tip, tech
-assignees: isamchajia
----
+### 🌐 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</p>
 
-## 🎲 Your Random Tech Tip!
+</div>
 
-Here's your random tech tip:
-
-**Tip:** Always use meaningful variable names. Your future self will thank you!
-
-*Click to get another tip!*
-\`\`\`
-
-**e. `collaboration-opportunity.md`**
-```yaml project="GitHub Profile Games" file=".github/ISSUE_TEMPLATE/collaboration-opportunity.md" type="code"
----
-name: 🤝 Collaboration Opportunity
-about: Let's work together on something amazing!
-title: '🤝 Collaboration Opportunity'
-labels: collaboration, project
-assignees: isamchajia
 ---
 
-## 🤝 Let's Collaborate!
+## 📊 GitHub Statistics
 
-Hi Isam!
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=isamchajia&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=isamchajia&theme=radical&hide_border=true" />
 
-I'd love to collaborate on:
-- [ ] Web Development Project
-- [ ] Open Source Contribution
-- [ ] Learning Together
-- [ ] Other (please specify)
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamchajia&layout=compact&theme=radical&hide_border=true" />
 
-Details:
-[Please describe your idea or what you'd like to work on]
+</div>
 
-My GitHub profile: [Your GitHub Profile Link]
-My contact email: [Your Email]
+---
 
-Looking forward to hearing from you!
-\`\`\`
+## 🏆 GitHub Trophies
 
-### 2. Enable GitHub Actions for Snake Animation
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isamchajia&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
 
-This will generate the `github-contribution-grid-snake-dark.svg` file dynamically. Create a file named `.github/workflows/snake.yml` in your profile repository:
+---
 
-```yaml project="GitHub Profile README - Snake Action" file=".github/workflows/snake.yml" type="code"
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isamchajia&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🔥 Current Projects | 🎯 Goals 2024 | 🌟 Interests |
+|:---:|:---:|:---:|
+| Web Development Portfolio | Master React & Node.js | UI/UX Design |
+| Automation Testing Suite | Contribute to Open Source | Mobile Development |
+| Personal Blog Platform | Build 10+ Projects | AI & Machine Learning |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isamchajia/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isamchajia@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isamchajia)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/isamchajia/isamchajia/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 Currently Vibing To
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+---
+
+**💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
+```
+
+## 🎉 Additional Setup Instructions
+
+To make your README even more amazing, you'll need to:
+
+1. **Replace placeholders:**
+   - Change `isamchajia` to your actual GitHub username in all URLs
+   - Update the LinkedIn URL to your actual profile
+   - Add your Spotify username if you want the music widget
+
+2. **Enable GitHub Actions for Snake Animation:**
+   Create `.github/workflows/snake.yml` in your profile repository:
+
+```yaml project="GitHub Profile README" file=".github/workflows/snake.yml" type="code"
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch: # Allows manual triggering
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -140,13 +173,13 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: isamchajia # Replace with your GitHub username
-          outputs: dist/github-contribution-grid-snake-dark.svg # Output path
+          github_user_name: isamchajia
+          outputs: dist/snake.svg
           
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
-          target_branch: output # This branch will store the generated SVG
+          target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub token for pushing
+          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
