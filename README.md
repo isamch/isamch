@@ -157,29 +157,32 @@ To make your README even more amazing, you'll need to:
    Create `.github/workflows/snake.yml` in your profile repository:
 
 ```yaml project="GitHub Profile README" file=".github/workflows/snake.yml" type="code"
-name: Generate Snake
+<div align="center">
+  
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Isam%20Chajia&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=51&descAlign=62"/>
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Isam+Chajia;Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: isamchajia
-          outputs: dist/snake.svg
-          
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=isamchajia&label=Profile%20views&color=0e75b6&style=flat" alt="isamchajia" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```yaml
+name: Isam Chajia
+located_in: Morocco
+current_job: Web Developer
+education: ["Self-taught", "Continuous Learning"]
+company: Freelancer
+
+fields_of_interests: ["Web Development", "UI/UX", "Automation Testing"]
+technical_background: ["Frontend Development", "Backend Development", "Database Management"]
+currently_learning: ["Python", "Appium Automation", "Advanced JavaScript"]
