@@ -1,188 +1,70 @@
-<div align="center">
-  
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Isam%20Chajia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<!-- Typing Animation -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Isam+Chajia;Passionate+Web+Developer;Problem+Solver+%26+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg" alt="Banner Image" width="100%" />
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Centered Introduction -->
+<h1 align="center">Hi 👋, I'm <b>Isam Chajia</b></h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isamchajia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <em>🌟 Passionate Web Developer | Problem Solver | Automation Enthusiast</em>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="coding gif"/>
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 Currently working on **innovative web development projects**
-- 🌱 Learning **Python** and exploring **automation with Appium**
-- 💻 Passionate about **Front-End Development & UI/UX**
-- 🛠️ Love building **responsive and interactive web applications**
-- 🧩 Enjoy **solving coding puzzles** and **automating tasks**
-- 📫 Reach me at: **isamchajia@gmail.com**
-- ⚡ Fun fact: **I debug with coffee and solve problems with creativity!** ☕
+- 🔭 I’m currently working on <b>web development projects</b> with a focus on clean, responsive design  
+- 🌱 I’m actively learning <b>Python</b> and diving deep into <b>automation testing with Appium</b>  
+- 💻 Proficient in <b>HTML | CSS | JavaScript | PHP | MySQL</b>  
+- 🎨 Frameworks & Libraries: <b>Tailwind CSS</b>  
+- 🛠️ Tools & Platforms: <b>Git, GitHub, Appium</b>  
+- 💬 Ask me about <b>Front-End Development, Responsive UI, and Test Automation</b>  
+- 📫 Reach me at: [isamchajia@gmail.com](mailto:isamchajia@gmail.com)  
+- ⚡ Fun fact: I love solving coding puzzles and automating repetitive tasks 🧩🤖  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 💻 My Skills
 
-<div align="center">
-
-### 💻 Programming Languages
+#### Programming & Scripting Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🎨 Frameworks & Libraries
+#### Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### 🔧 Tools & Technologies
+#### Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Appium" src="https://img.shields.io/badge/Appium-3C3C3D?style=for-the-badge&logo=appium&logoColor=white" />
 </p>
 
-### 🌐 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/isamchajia/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-</div>
-
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=isamchajia&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=isamchajia&theme=radical&hide_border=true" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamchajia&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isamchajia&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isamchajia&theme=react-dark&hide_border=true&area=true" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🔥 Current Projects | 🎯 Goals 2024 | 🌟 Interests |
-|:---:|:---:|:---:|
-| Web Development Portfolio | Master React & Node.js | UI/UX Design |
-| Automation Testing Suite | Contribute to Open Source | Mobile Development |
-| Personal Blog Platform | Build 10+ Projects | AI & Machine Learning |
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isamchajia/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isamchajia@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isamchajia)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/isamchajia/isamchajia/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
----
-
-**💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
-```
-
-## 🎉 Additional Setup Instructions
-
-To make your README even more amazing, you'll need to:
-
-1. **Replace placeholders:**
-   - Change `isamchajia` to your actual GitHub username in all URLs
-   - Update the LinkedIn URL to your actual profile
-   - Add your Spotify username if you want the music widget
-
-2. **Enable GitHub Actions for Snake Animation:**
-   Create `.github/workflows/snake.yml` in your profile repository:
-
-```yaml project="GitHub Profile README" file=".github/workflows/snake.yml" type="code"
-<div align="center">
-  
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Isam%20Chajia&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=51&descAlign=62"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Isam+Chajia;Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=isamchajia&label=Profile%20views&color=0e75b6&style=flat" alt="isamchajia" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-```yaml
-name: Isam Chajia
-located_in: Morocco
-current_job: Web Developer
-education: ["Self-taught", "Continuous Learning"]
-company: Freelancer
-
-fields_of_interests: ["Web Development", "UI/UX", "Automation Testing"]
-technical_background: ["Frontend Development", "Backend Development", "Database Management"]
-currently_learning: ["Python", "Appium Automation", "Advanced JavaScript"]
+<p align="center">
+  ⚡ <strong>Let’s build something amazing together! 🚀</strong>
+</p>
