@@ -120,12 +120,22 @@
 
 ---
 
+## 🎵 Currently Vibing To
 
 <div align="center">
-  ### 🎵 Currently Vibing To
-  [![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-  ---
-  **💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" />
+  </a>
+
+  <br><br>
+
+  <strong>💭 "Code is like humor. When you have to explain it, it's bad." – Cory House</strong>
+
+  <br><br>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 </div>
-\`\`\`
+
+
