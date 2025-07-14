@@ -144,8 +144,9 @@
 ---
 ## 🎮 Fun Game Animation
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD6iREJ4LFwlZRm/giphy.gif" alt="Pac-Man Game Animation" width="400" style="max-width:90%; height:auto;" />
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Pong Game Animation" width="400" style="max-width:90%; height:auto;" />
 </div>
+
 
 
 ---
