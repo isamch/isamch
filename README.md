@@ -1,70 +1,185 @@
-<!-- Banner Image -->
+<div align="center">
+  
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Isam%20Chajia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg" alt="Banner Image" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Isam+Chajia;Passionate+Web+Developer;Problem+Solver+%26+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<!-- Centered Introduction -->
-<h1 align="center">Hi 👋, I'm <b>Isam Chajia</b></h1>
-
+<!-- Profile Views Counter -->
 <p align="center">
-  <em>🌟 Passionate Web Developer | Problem Solver | Automation Enthusiast</em>
+  <img src="https://komarev.com/ghpvc/?username=isamchajia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="coding gif"/>
-</p>
+</div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on <b>web development projects</b> with a focus on clean, responsive design  
-- 🌱 I’m actively learning <b>Python</b> and diving deep into <b>automation testing with Appium</b>  
-- 💻 Proficient in <b>HTML | CSS | JavaScript | PHP | MySQL</b>  
-- 🎨 Frameworks & Libraries: <b>Tailwind CSS</b>  
-- 🛠️ Tools & Platforms: <b>Git, GitHub, Appium</b>  
-- 💬 Ask me about <b>Front-End Development, Responsive UI, and Test Automation</b>  
-- 📫 Reach me at: [isamchajia@gmail.com](mailto:isamchajia@gmail.com)  
-- ⚡ Fun fact: I love solving coding puzzles and automating repetitive tasks 🧩🤖  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🔭 Currently working on **innovative web development projects**
+- 🌱 Learning **Python** and exploring **automation with Appium**
+- 💻 Passionate about **Front-End Development & UI/UX**
+- 🛠️ Love building **responsive and interactive web applications**
+- 🧩 Enjoy **solving coding puzzles** and **automating tasks**
+- 📫 Reach me at: **isamchajia@gmail.com**
+- ⚡ Fun fact: **I debug with coffee and solve problems with creativity!** ☕
 
 ---
 
-### 💻 My Skills
+## 🛠️ Tech Stack & Tools
 
-#### Programming & Scripting Languages  
+<div align="center">
+
+### 💻 Programming Languages
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
 </p>
 
-#### Frameworks & Libraries  
+### 🎨 Frameworks & Libraries
 <p>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
-#### Tools  
+### 🔧 Tools & Technologies
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Appium" src="https://img.shields.io/badge/Appium-3C3C3D?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
+
+### 🌐 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</p>
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isamchajia/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=isamchajia&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=isamchajia&theme=radical&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamchajia&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  ⚡ <strong>Let’s build something amazing together! 🚀</strong>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isamchajia&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isamchajia&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🔥 Current Projects | 🎯 Goals 2024 | 🌟 Interests |
+|:---:|:---:|:---:|
+| Web Development Portfolio | Master React & Node.js | UI/UX Design |
+| Automation Testing Suite | Contribute to Open Source | Mobile Development |
+| Personal Blog Platform | Build 10+ Projects | AI & Machine Learning |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isamchajia/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isamchajia@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isamchajia)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/isamchajia/isamchajia/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 Currently Vibing To
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+---
+
+**💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
+```
+
+## 🎉 Additional Setup Instructions
+
+To make your README even more amazing, you'll need to:
+
+1. **Replace placeholders:**
+   - Change `isamchajia` to your actual GitHub username in all URLs
+   - Update the LinkedIn URL to your actual profile
+   - Add your Spotify username if you want the music widget
+
+2. **Enable GitHub Actions for Snake Animation:**
+   Create `.github/workflows/snake.yml` in your profile repository:
+
+```yaml project="GitHub Profile README" file=".github/workflows/snake.yml" type="code"
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: isamchajia
+          outputs: dist/snake.svg
+          
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
