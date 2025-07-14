@@ -9,7 +9,7 @@
 
   <!-- Profile Views Counter -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=isamchajia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=isamch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
 </div>
 
@@ -71,14 +71,14 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isamchajia&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isamch&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isamchajia&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isamch&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
@@ -125,39 +125,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 \`\`\`
-
-To make your README even more amazing, you'll need to:
-
-1.  **Replace placeholders:**
-    *   Change `isamchajia` to your actual GitHub username in all URLs
-    *   Update the LinkedIn URL to your actual profile
-    *   Add your Spotify username if you want the music widget
-2.  **Enable GitHub Actions for Snake Animation:**
-    Create `.github/workflows/snake.yml` in your profile repository:
-
-```yaml project="GitHub Profile README" file=".github/workflows/snake.yml" type="code"
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: isamchajia
-          outputs: dist/snake.svg
-
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
