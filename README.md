@@ -32,27 +32,31 @@
 <div align="center">
   ### 💻 Programming Languages
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,java,c,csharp,ruby,go,swift,kotlin,dart,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,java,c,go,ts" />
   </p>
   
   ### 🎨 Frameworks & Libraries
   <p>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,reactnative,vue,nextjs,nuxt,angular,express,spring,django,flask,laravel" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,reactnative,vue,nextjs,express,spring,django,flask,laravel,nodejs" />
   </p>
-  
+  <p>
+    <img src="https://img.shields.io/badge/-Appium-000?style=for-the-badge&logo=appium&logoColor=white&label=" style="border-radius:50px;" />
+    <img src="https://img.shields.io/badge/-MoviePy-000?style=for-the-badge&logo=python&logoColor=white&label=" style="border-radius:50px;" />
+  </p>
+
   ### 🔧 Tools & Technologies
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,kubernetes,jenkins,linux,aws,azure,gcp,supabase" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,kubernetes,linux,supabase,bash,firebase" />
   </p>
   
   ### 🗄️ Databases
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,oracle" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
   </p>
   
   ### 🌐 Currently Learning
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,graphql,apollo" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,graphql" />
   </p>
 </div>
 
@@ -61,7 +65,6 @@
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isamch&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <!-- Streak stats removed to avoid 404 error -->
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamch&layout=compact&theme=radical&hide_border=true" />
 </div>
