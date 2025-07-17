@@ -37,7 +37,7 @@
   
   ### 🎨 Frameworks & Libraries
   <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,reactnative,vue,nextjs,express,spring,django,flask,laravel,nodejs" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,reactnative,vue,nextjs,express,spring,django,flask,laravel,nodejs,expo" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/-Appium-000?style=for-the-badge&logo=appium&logoColor=white&label=" style="border-radius:50px;" />
